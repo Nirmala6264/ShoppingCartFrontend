@@ -54,8 +54,7 @@
 
 .landing__image__container {
     width: 50%;
-    /* height: auto; */
-    display: flex;
+        display: flex;
     justify-content: center;
     align-items: center;
 }
